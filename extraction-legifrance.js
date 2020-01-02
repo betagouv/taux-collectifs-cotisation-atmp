@@ -3,7 +3,7 @@
 // A executer (copier/coller) dans la console du navigateur sur la page Legifrance.
 // Le script retourne un fichier json à télécharger.
 
-let fileName = 'taux-2019.json'
+let fileName = 'taux-2020.json'
 
 // 🚨 Vérifier qu'il s'agit bien du bon tableau
 let risquesTable = document.querySelector('#subcontent table')
@@ -14,7 +14,7 @@ let reducer = (acc, row) => {
 	if (cells.length === 1) {
 		// On dénormalize l'en-tête (ligne avec une seule case)
 		return { ...acc, currentHeader: cells[0].innerText.trim() }
-	} else if (cells.length === 6) {
+	} else if (cells.length === 4) {
 		// On récupère les 4 premières cases + la dernière en-tête
 		let res =
 			acc.res +
