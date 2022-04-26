@@ -9,6 +9,7 @@ Extraits de
 - [Arrêté du 26 décembre 2018](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037865039)
 - [Arrêté du 27 décembre 2019](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039684705)
 - [Arrêté du 16 décembre 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731279)
+- [Arrêté du 24 décembre 2021](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044616004)
 
 Licence ouverte.
 
