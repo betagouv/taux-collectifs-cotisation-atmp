@@ -1,10 +1,10 @@
 // Script d'extraction des taux AT/MP à partir de la page web Legifrance du décret
 // de publication des taux.
 // A exécuter (copier/coller) dans la console du navigateur sur la page Legifrance.
-// https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000048708762
+// https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000051533208
 // Le script retourne un fichier json à télécharger.
 
-let fileName = "taux-2024.json";
+let fileName = "taux-2025.json";
 
 // 🚨 Vérifier qu'il s'agit bien du bon tableau
 let risquesTable = document.querySelector(".summary-preface table");
