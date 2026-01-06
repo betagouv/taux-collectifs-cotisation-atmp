@@ -1,7 +1,7 @@
 // Script d'extraction des taux AT/MP à partir de la page web Legifrance du décret
 // de publication des taux.
 // A exécuter (copier/coller) dans la console du navigateur sur la page Legifrance.
-// https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731279
+// https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000042731300
 // Le script retourne un fichier json à télécharger.
 
 let fileName = "taux-2021.json";
